@@ -50,7 +50,4 @@ Your tasks:
 - `mini_task_tracker.py` — Python source code.
 - `tasks.json` — created automatically when the program saves tasks.
 
-## Suggested GitHub commit plan
-1. `Add task tracker core menu and JSON persistence`
-2. `Improve validation and document usage`
 
